@@ -1,0 +1,12 @@
+D:\Console\Coursework_wcf_service\bin\Coursework_wcf_service.dll.config
+D:\Console\Coursework_wcf_service\bin\Coursework_wcf_service.dll
+D:\Console\Coursework_wcf_service\bin\Coursework_wcf_service.pdb
+D:\Console\Coursework_wcf_service\obj\Debug\Coursework_wcf_service.dll
+D:\Console\Coursework_wcf_service\obj\Debug\Coursework_wcf_service.pdb
+D:\Console\Coursework_wcf_service\obj\Debug\Coursework_wcf_service.csprojResolveAssemblyReference.cache
+E:\Курсова\Coursework_wcf_service\Coursework_wcf_service\bin\Coursework_wcf_service.dll.config
+E:\Курсова\Coursework_wcf_service\Coursework_wcf_service\bin\Coursework_wcf_service.dll
+E:\Курсова\Coursework_wcf_service\Coursework_wcf_service\bin\Coursework_wcf_service.pdb
+E:\Курсова\Coursework_wcf_service\Coursework_wcf_service\obj\Debug\Coursework_wcf_service.csprojResolveAssemblyReference.cache
+E:\Курсова\Coursework_wcf_service\Coursework_wcf_service\obj\Debug\Coursework_wcf_service.dll
+E:\Курсова\Coursework_wcf_service\Coursework_wcf_service\obj\Debug\Coursework_wcf_service.pdb
